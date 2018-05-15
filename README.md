@@ -6,13 +6,14 @@ Ryan Verpoort 1136745
 ## Details of Repository
 
 The code is available in the master branch and the report is located in 
-the Documentation branch of the repoository located here:
+the Documentation branch of the repository located here:
 https://github.com/SirArlo/Data-Intensive-Computing-Project
 
 ### Contents of master branch
+
 * The executable for the multithreaded algorithm is the file "OpenMP" and the executable for the multi-processing algorithm is "MPI".
 
-* Tables A and B each have 100 values in them, for test demonstartion purposes. Output table C has 100 values which is the join of Table A and Table B.
+* Tables A and B each have 100 values in them, for test demonstration purposes. Output table C has 100 values which is the join of Table A and Table B.
 
 * File OutputTableC_MPI.csv is the result from the multi-processing join of Table A and Table B.
 * File OutputTableC_OpenMP.csv is the result from the multi-threaded join of Table A and Table B.
